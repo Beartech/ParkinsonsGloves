@@ -60,7 +60,7 @@ void loop() {
   tone(array[3], 250, 100);
   delay(160);
   
-  delay(1280)
+  delay(1280) // this is the "2 off cycle". The vibrating pattern is "3 on 2 off".
     
     
 
